@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1489px;
+    left: 0px;
+    top: 0px;
+    background: #fafafa;
+}
+
+h1 {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    position: absolute;
+    font-size: 36px;
+    letter-spacing: -0.045em;
+    width: 278px;
+    height: 47px;
+    margin: 110px 0 0 243px;
+    color: black;
+}
+
+h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    position: absolute;
+    width: 117px;
+    height: 47px;
+    line-height: 27px;
+    margin: 110px 587px 10px 736px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.text {
+    font-family: 'Poppins';
+    width: 439px;
+    height: 87px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    position: absolute;
+    margin: 147px 265px 1255px 736px;
+}
+
+#img1 {
+    position: absolute;
+    width: 238px;
+    margin: 244.5px 962px 818px 240px;
+}
+#img2 {
+    position: absolute;
+    width: 238px;
+    margin: 396px 600.15px 622px 534.64px;
+}
+
+#img3 {
+    position: absolute;
+    width: 238px;
+    margin: 330px 275.66px 759.04px 863.54px;
+}
+
+#img4 {
+    position: absolute;
+    width: 238px;
+    margin: 760px 922.32px 260px 241px;
+}
+
+#img5 {
+    position: absolute;
+    width: 238px;
+    margin: 944px 631px 185px 534.64px;
+}
+
+#img6 {
+    position: absolute;
+    width: 238px;
+    margin: 796px 239.56px 244px 864.69px;
+}
+
+.name1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 117px;
+    height: 27px;
+    position: absolute;
+    top: 600px;
+    left: 240px;
+}
+
+.name2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 200px;
+    height: 27px;
+    position: absolute;
+    top: 755px;
+    left: 535px;
+}    
+
+.name3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 117px;
+    height: 27px;
+    position: absolute;
+    top: 680px;
+    left: 865px;
+}
+
+.name4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 117px;
+    height: 27px;
+    position: absolute;
+    top: 1115px;
+    left: 240px;
+}
+
+.name5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 200px;
+    height: 27px;
+    position: absolute;
+    top: 1306px;
+    left: 535px;
+}
+
+.name6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    width: 117px;
+    height: 27px;
+    position: absolute;
+    top: 1150px;
+    left: 865px;
+}
+
+.Bill {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 102px;
+    height: 16px;
+    position: absolute;
+    top: 276px;
+    left: 445px;
+    transform: rotate(90deg);
+}
+
+.Saba {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 85px;
+    height: 16px;
+    position: absolute;
+    top: 419px;
+    left: 748px;
+    transform: rotate(90deg);
+}
+
+.Shae {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 65px;
+    height: 16px;
+    position: absolute;
+    top: 342px;
+    left: 1087px;
+    transform: rotate(90deg);
+}
+
+.Skylah {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 77px;
+    height: 16px;
+    position: absolute;
+    top: 780px;
+    left: 458px;
+    transform: rotate(90deg);
+}
+
+.Griff {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 68px;
+    height: 16px;
+    position: absolute;
+    top: 960px;
+    left: 756px;
+    transform: rotate(90deg);
+}
+
+.Stan {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 15.9px;
+    width: 76px;
+    height: 16px;
+    position: absolute;
+    top: 815px;
+    left: 1082px;
+    transform: rotate(90deg);
+}
+
+footer {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    line-height: 17px;
+    width: 320px;
+    height: 17px;
+    position: absolute;
+    top: 1448px;
+    left: 500px;
+    color: #a9a9a9;
+}
